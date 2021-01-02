@@ -43,6 +43,7 @@
 ## ⏳ 회고
 - [2020년 회고와 2021년 다짐](https://zeddios.tistory.com/1192)
 - [2020년 회고: 결혼, 모듈화, BPL, 접근성](https://sungdoo.dev/retrospective-or-psa/2020/)
+- [이른바 명예로운 자가격리를 당한 거지](https://blog.shift.moe/2020/12/26/so-called-honorable-self-isolation/)
 
 ## 🌐 네트워크
 - [HTTPS 작동 방식](https://howhttps.works/ko/)
