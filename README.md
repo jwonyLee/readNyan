@@ -5,6 +5,7 @@
 - [앱 안정성을 향한 끊임없는 여정](https://soojin.ro/blog/journey-to-app-stability)
 - [안심번호(050) 시스템 #1 - 시스템 구축 스토리](https://woowabros.github.io/experience/2020/12/30/050system_introduction.html)
 - [그것이 알고 싶다 – 왜 개발자는 글을 못 쓸까?](https://engineering.linecorp.com/ko/blog/why-are-engineers-so-bad-at-writing/)
+- [윈도우즈 소프트웨어는 왜 소프트웨어를 설치하고 다시 시작하라고 할까요? - 페이스북 댓글 참고](https://www.facebook.com/groups/codingeverybody/permalink/5057824850924677/)
 
 ## <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/swift.svg" /> Swift
 - [[Let'Swift 2019] 실용적인 함수형 프로그래밍 워크샵](https://www.slideshare.net/imyostarr/letswift-2019-193026704)
@@ -44,6 +45,9 @@
 - [2020년 회고와 2021년 다짐](https://zeddios.tistory.com/1192)
 - [2020년 회고: 결혼, 모듈화, BPL, 접근성](https://sungdoo.dev/retrospective-or-psa/2020/)
 - [이른바 명예로운 자가격리를 당한 거지](https://blog.shift.moe/2020/12/26/so-called-honorable-self-isolation/)
+- [2021년 1일 1커밋 종료 및 느낀 점](https://hyanghope.tistory.com/575)
+- [2020년 이직](https://blog.outsider.ne.kr/1518?fbclid=IwAR2akVE3EmemrQ9hzj0FsAwUDx51xWSL0fyu8KircUNPAOVS2n-hwcQoqiM)
+- [[개발] 1년차 개발자가 공부하는 방법](https://medium.com/react-native-seoul/개발-1년차-개발자가-공부하는-방법-5e432779f779)
 
 ## 🌐 네트워크
 - [HTTPS 작동 방식](https://howhttps.works/ko/)
