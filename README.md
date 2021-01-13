@@ -48,6 +48,7 @@
 - [2021년 1일 1커밋 종료 및 느낀 점](https://hyanghope.tistory.com/575)
 - [2020년 이직](https://blog.outsider.ne.kr/1518?fbclid=IwAR2akVE3EmemrQ9hzj0FsAwUDx51xWSL0fyu8KircUNPAOVS2n-hwcQoqiM)
 - [[개발] 1년차 개발자가 공부하는 방법](https://medium.com/react-native-seoul/개발-1년차-개발자가-공부하는-방법-5e432779f779)
+- [네이티브 앱 → 리액트 네이티브 앱 전환 그리고 1년 후](https://ridicorp.com/story/react-native-1year-review/?fbclid=IwAR1FzF0MsQXJCTLg-67GJAAXpUd8AAAr_0KXoAiyzflvXQV71qVcEcqFuO0)
 
 ## 🌐 네트워크
 - [HTTPS 작동 방식](https://howhttps.works/ko/)
