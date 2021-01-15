@@ -17,6 +17,7 @@
 - [iOS Delegate 패턴에 대해서 알아보기](https://magi82.github.io/ios-delegate/)
 - [공식문서 만으로 iOS 개발 배우기](https://sungdoo.dev/programming/start-ios-development-with-offical-docs/)
 - [iOS Networking and Testing](https://woowabros.github.io/swift/2020/12/20/ios-networking-and-testing.html)
+- [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 
 ## <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/git.svg" /> Git
 - [좋은 커밋 메시지를 작성하기 위한 커밋 템플릿 만들어보기](https://junwoo45.github.io/2020-02-06-commit_template/)
